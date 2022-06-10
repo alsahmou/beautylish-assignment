@@ -1,0 +1,15 @@
+{
+  "name": "beautylish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test_main.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-pytest": "^0.7.0"
+  }
+  
+}
